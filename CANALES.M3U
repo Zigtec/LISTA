@@ -1,18 +1,5 @@
-3U url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1",Canal 24 Horas
+
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
