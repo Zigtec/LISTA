@@ -4,56 +4,7 @@ https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="LATAM" tvg-language="" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p)
 https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Sports",Claro Sports
-http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1 tvg-id="ComunionTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="",Comunion TV (720p) [Not 24/7]
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="",CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="",DAN TV (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="",Digital Vision (720p) [Not 24/7]
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religious",EWTN el Canal Católico (1080p)
-https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",Fox Sports 2 Latin America (1080p)
-http://209.91.213.10:8088/play/a02r
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (576p)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.do" tvg-country="DO" tvg-language="" tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="",Fuego TV (720p) [Not 24/7]
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="",GDMTV (720p) [Not 24/7]
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="GHTelevisionCanal10.do" tvg-country="DO" tvg-language="" tvg-logo="" group-title="",GH Television Canal 10 (720p) [Not 24/7]
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
-#EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="",Hermanas Mirabal TV (720p) [Not 24/7]
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="HilandoFino.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="",Hilando Fino (1080p) [Not 24/7]
-https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="News",HispanTV (480p)
-https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="Hits360TV.do" tvg-country="DO" tvg-language="" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="Music",Hits 360 TV (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="HM.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="",HM (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Animation",Kanade TV (720p) [Not 24/7]
-https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
-#EXTINF:-1 tvg-id="LAMIATV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/77uVMGw.png" group-title="",LA MIA TV (720p)
-https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="LVM.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="",LVM (480p)
-https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="",Magic Kids [Not 24/7]
-https://live.admefy.com/live/240/clean_peach_ef224.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal43.do" tvg-country="DO" tvg-language="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png" group-title="",Megavision Canal 43 (480p) [Not 24/7]
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 tvg-id="Microvision10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="",Microvision 10 (720p)
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-OiAyNltHK1c/XoR4TuBHe4I/AAAAAAAAszg/d3NIH9pHptsJ75DDyIGuGjq9cVO-of7kgCLcBGAsYHQ/s200/misioneltvlogo.png" group-title="",Mision ELTV (360p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8286/8286/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVHitsLatinoamerica.us" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Music",MTV Hits Latinoamérica (576p)
